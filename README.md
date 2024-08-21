@@ -11,10 +11,9 @@ layout.
 ● Search by college name.
 ● Infinite Scroll
 # To run - 
-    Type this commands in Terminal after downloading the file -
 
 1.  Installing the neccessary modules using
-    ### npm install
+    # npm install
 
 2.  To run the project
-    ### npm run dev
+    # npm run dev
