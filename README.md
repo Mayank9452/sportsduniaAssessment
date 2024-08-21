@@ -1,5 +1,5 @@
-Hosted Link - "https://sportsduniatask.netlify.app/"
-Task
+# Hosted Link - https://sportsduniatask.netlify.app/
+# Task
 1. Create a table layout as shown in above image.
 2. Initially, 10 rows will be shown in the table. You have to implement infinite scroll functionality.
 You have to add rows into the same table. Show featured flag if any college has truthy featured
