@@ -10,3 +10,11 @@ layout.
 ● Sort by collegedunia rating, fees, user review rating , ascending and descending order
 ● Search by college name.
 ● Infinite Scroll
+# To run - 
+    Type this Command in Terminal after downloading the file -
+
+1.  Installing the neccessary modules using - 
+    npm install
+
+2.  To run the project -
+    npm run dev
